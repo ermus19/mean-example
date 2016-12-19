@@ -1,0 +1,9 @@
+
+#ignore macOS filesystem track
+.DS_Store
+
+#ignore node_modules folder (use npm install instead)
+node_modules/
+
+#ignore bower_components folder (use bower install instead)
+bower_components/

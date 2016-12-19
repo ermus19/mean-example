@@ -1,2 +1,2 @@
 # mean
-MEAN stack | CRUD example 
+MEAN stack | CRUD example
